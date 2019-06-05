@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormationInfomilDeux</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edt_hint">Tapez votre texte ici</string>
+    <string name="btnAdd">Ajouter</string>
+</resources>
